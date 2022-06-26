@@ -31,6 +31,7 @@
 
 
 console.log("Halo2 Bandung");
+console.log("Halo Tayo");
 
 // //1.
 class Orang {
