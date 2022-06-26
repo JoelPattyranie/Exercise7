@@ -29,7 +29,7 @@
 // agya.nyalakanMobil();
 // agya.matikanMobil();
 
-
+console.log("Halo Jo");
 console.log("Halo2 Bandung");
 console.log("Tidak Jadi Halo");
 console.log("Halo Tayo");
