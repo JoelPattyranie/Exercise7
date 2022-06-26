@@ -30,7 +30,7 @@
 // agya.matikanMobil();
 
 
-
+console.log("Halo2 Bandung");
 
 // //1.
 class Orang {
